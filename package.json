@@ -1,0 +1,27 @@
+{
+    "name": "MyPortfoliyo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "Scr/app.js",
+    "scripts": {
+        "dev": "parcel Src/index.html",
+        "prod": "parcel build Src/index.html"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Sanchit-OP/MyPortfoliyo.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Sanchit-OP/MyPortfoliyo/issues"
+    },
+    "homepage": "https://github.com/Sanchit-OP/MyPortfoliyo#readme",
+    "devDependencies": {
+        "parcel-bundler": "^1.12.5"
+    },
+    "dependencies": {
+        "smooth-scrollbar": "^8.6.3"
+    }
+}
